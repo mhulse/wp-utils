@@ -4,9 +4,9 @@
 
 ## Usage:
 
-More information coming soon.
+Inspect the code. Use what you like. Questions? Feel free to [file an issue](https://github.com/mhulse/wp-utils/issues/new?title=Feedback%20for%20you%20%E2%80%A6&body=I%20just%20wanted%20to%20say%20%E2%80%A6). :smile:
 
-**Note:** Where you see `NS` in the code, replace that with your pseudo-namespace of choice. :smile:
+More information coming soon.
 
 ---
 
