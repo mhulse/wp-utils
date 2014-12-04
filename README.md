@@ -2,6 +2,8 @@
 
 **Various bits and pieces of code that I created and/or currated/modified to help with WordPress development.**
 
+Have fun browsing! :+1: :octocat: 
+
 ## Usage:
 
 Inspect the code. Use what you like. Questions? Feel free to [file an issue](https://github.com/mhulse/wp-utils/issues/new?title=Feedback%20for%20you%20%E2%80%A6&body=I%20just%20wanted%20to%20say%20%E2%80%A6). :smile:
