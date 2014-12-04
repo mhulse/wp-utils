@@ -1,11 +1,11 @@
 <?php
-	
-	/**
-	 * Template Name: Test
-	 *
-	 * @package mah
-	 */
-	
+
+/**
+ * Template Name: Test
+ *
+ * @package mah
+ */
+
 ?>
 
 <?php if (have_posts()): ?>

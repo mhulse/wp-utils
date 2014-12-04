@@ -1,12 +1,12 @@
 <?php
-	
-	/**
-	 * Template Name: Blog tease
-	 * Description: Most recent posts latest blog, with mug.
-	 *
-	 * @package mah
-	 */
-	
+
+/**
+ * Template Name: Blog tease
+ * Description: Most recent posts latest blog, with mug.
+ *
+ * @package mah
+ */
+
 ?>
 
 <?php $items = ((isset($_GET['items']) && is_numeric($_GET['items'])) ? $_GET['items'] : 4); ?>

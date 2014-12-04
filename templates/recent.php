@@ -1,11 +1,11 @@
 <?php
-	
-	/**
-	 * Template Name: Latest entries
-	 *
-	 * @package mah
-	 */
-	
+
+/**
+ * Template Name: Latest entries
+ *
+ * @package mah
+ */
+
 ?>
 
 <?php if (isset($_GET['blog']) && ( ! empty($_GET['blog']))): ?>
