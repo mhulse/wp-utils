@@ -1,6 +1,6 @@
 # WP Utils
 
-**Various bits of code that I wrote/currated/modified to help with WordPress development.**
+**Various bits and pieces of code I wrote to help with WordPress development.**
 
 ## Usage:
 
